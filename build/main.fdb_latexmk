@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1643579904 "c:/Users/luiso/Desktop/Apuntes-latex/main.tex" "build/main.pdf" "main" 1643579912
+["pdflatex"] 1643580513 "c:/Users/luiso/Desktop/Apuntes-latex/main.tex" "build/main.pdf" "main" 1643580525
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1233951848 1120 1e8878807317373affa7f7bba4cf2f6a ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm" 1233951848 1124 14ccf5552bc7f77ca02a8a402bea8bfb ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmbsy7.tfm" 1233951848 1120 7f9f170e8aa57527ad6c49feafd45d54 ""
@@ -40,6 +40,7 @@
   "C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247596666 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
   "C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1247596667 32762 7fee39e011c23b3589931effd97b9702 ""
+  "C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb" 1247596673 34694 870c211f62cb72718a00e353f14f254d ""
   "C:/Program Files/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Program Files/MiKTeX/tex/generic/atbegshi/atbegshi.sty" 1575571100 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "C:/Program Files/MiKTeX/tex/generic/iftex/iftex.sty" 1583523400 6501 4011d89d9621e0b0901138815ba5ff29 ""
@@ -206,9 +207,9 @@
   "C:/Users/luiso/AppData/Roaming/MiKTeX/tex/latex/psfrag/psfrag.sty" 1468836945 7558 04574cd13971edb76f06a9e2e9a108d9 ""
   "C:/Users/luiso/AppData/Roaming/MiKTeX/tex/latex/zref/zref-abspage.sty" 1602241898 2275 d29aca6fd67823551cb07584e3681d5d ""
   "C:/Users/luiso/AppData/Roaming/MiKTeX/tex/latex/zref/zref-base.sty" 1602241898 20688 beaddf14d96104d4bf016523be5395c5 ""
-  "build/main.aux" 1643579912 67 d1f1d04f1f825549314e4f02ae5806bb "pdflatex"
-  "c:/Users/luiso/Desktop/Apuntes-latex/main.tex" 1643579902 2968 ff9a4e145779822b2817f43943a25fb5 ""
-  "main.tex" 1643579902 2968 ff9a4e145779822b2817f43943a25fb5 ""
+  "build/main.aux" 1643580524 67 d1f1d04f1f825549314e4f02ae5806bb "pdflatex"
+  "c:/Users/luiso/Desktop/Apuntes-latex/main.tex" 1643580511 3001 1e2b0d920d51ee56b6481ada5d814f13 ""
+  "main.tex" 1643580511 3001 1e2b0d920d51ee56b6481ada5d814f13 ""
   (generated)
   "build/main.aux"
   "build/main.log"
