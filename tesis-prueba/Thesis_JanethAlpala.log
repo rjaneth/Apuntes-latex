@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.7.11)  1 NOV 2022 13:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.7.11)  1 NOV 2022 14:34
 entering extended mode
 **./Thesis_JanethAlpala.tex
 (Thesis_JanethAlpala.tex
@@ -1455,10 +1455,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--65
 \openout2 = `chapters/2_obs.aux'.
 
  (chapters/2_obs.tex
-<figures/snap.PNG, id=164, 306.39468pt x 293.59688pt>
-File: figures/snap.PNG Graphic file (type png)
-<use figures/snap.PNG>
-Package pdftex.def Info: figures/snap.PNG  used on input line 17.
+<figures/images/snap.PNG, id=164, 306.39468pt x 293.59688pt>
+File: figures/images/snap.PNG Graphic file (type png)
+<use figures/images/snap.PNG>
+Package pdftex.def Info: figures/images/snap.PNG  used on input line 17.
 (pdftex.def)             Requested size: 181.18439pt x 173.61488pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1472,21 +1472,22 @@ has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.46 	\end{align}
-                  <./figures/snap.PNG>]
-<figures/PolSAR.jpg, id=172, 401.5pt x 401.5pt>
-File: figures/PolSAR.jpg Graphic file (type jpg)
-<use figures/PolSAR.jpg>
-Package pdftex.def Info: figures/PolSAR.jpg  used on input line 50.
+                  <./figures/images/snap.PNG>]
+<figures/images/PolSAR.jpg, id=172, 401.5pt x 401.5pt>
+File: figures/images/PolSAR.jpg Graphic file (type jpg)
+<use figures/images/PolSAR.jpg>
+Package pdftex.def Info: figures/images/PolSAR.jpg  used on input line 50.
 (pdftex.def)             Requested size: 226.48393pt x 226.48645pt.
 ) [5pdfTeX warning (ext4): destination with the same identifier (name{figure.2.
 2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.242 \include{chapters/2_obs}
-                               <./figures/PolSAR.jpg>]
+                               <./figures/images/PolSAR.jpg>]
 \openout2 = `chapters/4_methods.aux'.
 
- (chapters/4_methods.tex) [6
+
+(chapters/4_methods.tex) [6
 
 
 
@@ -1500,7 +1501,8 @@ l.242 \include{chapters/2_obs}
 ]
 \openout2 = `chapters/6_conclusions.aux'.
 
- (chapters/6_conclusions.tex
+
+(chapters/6_conclusions.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
@@ -1552,7 +1554,7 @@ Package logreq Info: Writing requests to 'Thesis_JanethAlpala.run.xml'.
 (\end occurred when \ifx on line 27 was incomplete) 
 Here is how much of TeX's memory you used:
  33149 strings out of 478864
- 603904 string characters out of 2858517
+ 603995 string characters out of 2858517
  1317622 words of memory out of 3000000
  50356 multiletter control sequences out of 15000+600000
  457666 words of font info for 93 fonts, out of 8000000 for 9000
